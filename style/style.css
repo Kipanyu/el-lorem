@@ -9,7 +9,7 @@ h5 {
 
 #copete{
     margin-bottom: 0.4rem;
-    color: orange;
+    color: red;
     font-family: 'Bitter', serif;
     
 }
@@ -29,7 +29,10 @@ h5 {
     
 }
 
-
+#autor {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
 
 .navbar-brand {
     position: absolute;
@@ -40,9 +43,10 @@ h5 {
 }
 
 #subscribe {
-    color: lightblue !important;
     font-family: 'Bitter', serif;
     font-size: 2rem;
+    color: rgb(19, 142, 190);
+    text-decoration: none;
 }
 
 
