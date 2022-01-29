@@ -1,0 +1,58 @@
+body {
+    background-color: coral;
+    font-family: 'Grenze Gotisch';
+}
+
+h5 {
+    color: orange;
+}
+
+#copete{
+    margin-bottom: 0.4rem;
+    color: orange;
+    font-family: 'Bitter', serif;
+    
+}
+
+
+#b_navegacion {
+    
+}
+
+#textopreview {
+    font-family: 'Bitter', serif;
+}
+
+#texto_header {
+    font-family: 'Bitter', serif;
+    font-size: 2rem;
+    
+}
+
+
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important;  /* 50% of your logo width */
+    display: block;
+;
+}
+
+#subscribe {
+    color: lightblue !important;
+    font-family: 'Bitter', serif;
+    font-size: 2rem;
+}
+
+
+/*fonts
+    font-family: 'Bitter', serif;
+
+    font-family: 'Grenze Gotisch', cursive;
+
+    font-family: 'Italiana', serif;
+
+    font-family: 'Playfair Display', serif;
+    
+    */
